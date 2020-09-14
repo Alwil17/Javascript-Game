@@ -1,0 +1,13 @@
+* {
+  background: #f0f0f4;
+}
+canvas {
+  background: #e1e1ea;
+  display: block;
+  margin: auto;
+}
+p {
+  font-size: 20px;
+  text-align: center;
+  font-family: Helvetica;
+}
